@@ -6,10 +6,13 @@
 
 
 // Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
+$base-font-family: Georgia, Times, 'Times New Roman', serif;
+$heading-font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$accent-font-family: 'Slabo 13px', serif;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
+$accent-font-size: $base-font-size * 1.50;
 
 $spacing-unit:     30px;
 
@@ -20,6 +23,10 @@ $brand-color:      #2a7ae2;
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
+
+$dark-blue:        #0c092d;
+$orange:           #ea5b4d;
+
 
 $on-palm:          600px;
 $on-laptop:        800px;
