@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Legislate This! is a show like none other; a politically fueled burlesque extravaganza 
   pulsing with performers at their finest! And the best part? All of the profits go to the 
   local Planned Parenthood chapter!
-baseurl: "/legislatethis/" # the subpath of your site, e.g. /blog/
+baseurl: "/legislatethis" # the subpath of your site, e.g. /blog/
 url: "http://legislatethisburlesque.com/" # the base hostname & protocol for your site
 
 # Build settings
