@@ -15,4 +15,3 @@ Awesome! Here is some important info:
 - Upon event approval, we will provide you with some logos and marketing material, as well as getting the link to your event listed on this website.
 - If you’d like to produce a show, please contact Ginger at [gingersnapsburlesque@gmail.com](mailto:gingersnapsburlesque@gmail.com)
 - Thanks so much  for your interest!!!
-- Balls
